@@ -37,9 +37,8 @@ Here's a walkthrough of the implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace with your actual GIF URL -->
 
-GIF created with **ScreenToGif (Windows) / Kap (Mac) / Peek (Linux)**.
+
 
 ---
 
