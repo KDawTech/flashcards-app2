@@ -5,9 +5,12 @@ const App: React.FC = () => {
   return (
     <div className="app">
       <h1>Flashcards Study App</h1>
-      <FlashcardList />
+      <div className="flashcard-container">
+        <FlashcardList />
+      </div>
     </div>
   );
 };
 
 export default App;
+
