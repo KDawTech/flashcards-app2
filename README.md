@@ -4,7 +4,7 @@ Submitted by: KEVON DAWKINS
 
 This web app allows users to **study flashcards** by flipping them to see the answer. Users can also **click "Next Card" to see a new random flashcard**.
 
-Time spent: 19 hours spent in total**
+Time spent: 13 hours spent in total**
 
 ---
 
@@ -35,7 +35,7 @@ The following additional features are implemented:
 ## 🎥 Video Walkthrough
 Here's a walkthrough of the implemented features:
 
-<img src='https://github.com/KDawTech/flashcards-app/blob/main/flashcard.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/KDawTech/flashcards-app/blob/main/flashcard2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
